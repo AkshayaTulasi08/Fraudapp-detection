@@ -1,0 +1,9 @@
+Starting git push process... 
+Reinitialized existing Git repository in C:/Users/admin/Downloads/fraud-app-detection-main/.git/
+warning: in the working copy of 'push.bat', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'git_log.txt', LF will be replaced by CRLF the next time Git touches it
+[main c2d33f3] Initial project commit
+ 2 files changed, 20 insertions(+), 17 deletions(-)
+ create mode 100644 git_log.txt
+remote: Permission to AkshayaTulasi08/Fraudapp-detection1.git denied to phani-kudipudi.
+fatal: unable to access 'https://github.com/AkshayaTulasi08/Fraudapp-detection1.git/': The requested URL returned error: 403
